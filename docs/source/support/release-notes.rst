@@ -8,7 +8,7 @@ This page contains release notes for the SDK.
 
 HEAD — ongoing
 --------------
-- Making transaction lookups performant so we can handle such requests for large ledgers as well
+- Improve performance of transaction lookups, see `#994 <https://github.com/digital-asset/daml/pull/994>`_
 
 0.12.16 - 2019-05-07
 --------------------
